@@ -1,5 +1,5 @@
 # ng2_starter
-Angular2 latest starter
+Angular 2.0 starter
 
 #Usage
 `git clone https://github.com/essaji/ng2_starter.git`

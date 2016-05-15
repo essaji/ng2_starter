@@ -8,4 +8,6 @@ Angular2 latest starter
 
 `npm install`
 
+`npm install -g live-server`
+
 `live-server`
